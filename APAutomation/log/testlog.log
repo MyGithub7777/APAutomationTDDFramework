@@ -1,0 +1,53 @@
+2024-02-26 20:10:58,108 - AP Automation Framework -INFO - ----------- Framework Execution Started --------------
+2024-02-26 20:11:07,029 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:09,088 - AP Automation Framework -INFO - Not Logged in
+2024-02-26 20:11:10,125 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:11:14,377 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:16,485 - AP Automation Framework -INFO - Logged in
+2024-02-26 20:11:17,281 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:11:21,350 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:31,107 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:11:34,577 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:37,463 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:11:41,789 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:44,600 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:11:48,301 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:11:50,021 - AP Automation Framework -INFO - logged in
+2024-02-26 20:11:51,497 - AP Automation Framework -INFO - product added to cart
+2024-02-26 20:11:52,704 - AP Automation Framework -INFO - checkout
+2024-02-26 20:11:59,011 - AP Automation Framework -INFO - placed order
+2024-02-26 20:12:09,634 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:12:09,634 - AP Automation Framework -INFO - ----------- Framework Execution Completed --------------
+2024-02-26 20:16:02,984 - AP Automation Framework -INFO - ----------- Framework Execution Started --------------
+2024-02-26 20:16:07,168 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:07,182 - AP Automation Framework -INFO - Execution Started :- validate_user_should_be_log_in_by_entering_invalid_inputs
+2024-02-26 20:16:09,378 - AP Automation Framework -INFO - Not Logged in
+2024-02-26 20:16:09,495 - AP Automation Framework -INFO - The error message is :- Wrong login/password
+2024-02-26 20:16:09,506 - AP Automation Framework -INFO - Execution Finished Successfully :- validate_user_should_be_log_in_by_entering_invalid_inputs
+2024-02-26 20:16:10,376 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:16:15,366 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:15,379 - AP Automation Framework -INFO - Execution Started :- validate_user_should_be_log_in_entering_all_valid_inputs
+2024-02-26 20:16:17,318 - AP Automation Framework -INFO - Logged in
+2024-02-26 20:16:17,336 - AP Automation Framework -INFO - Execution Finished Successfully :- validate_user_should_be_log_in_entering_all_valid_inputs
+2024-02-26 20:16:18,087 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:16:22,219 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:22,222 - AP Automation Framework -INFO - Execution Started :- addNewAddress
+2024-02-26 20:16:31,263 - AP Automation Framework -INFO - Execution Finished Successfully :- addNewAddress
+2024-02-26 20:16:31,936 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:16:35,313 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:35,321 - AP Automation Framework -INFO - Execution Started :- validate_sign_up_entering_all_valid_inputs
+2024-02-26 20:16:37,420 - AP Automation Framework -INFO - Execution Failed and captured Screenshot:- validate_sign_up_entering_all_valid_inputs
+2024-02-26 20:16:38,043 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:16:42,268 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:42,275 - AP Automation Framework -INFO - Execution Started :- validate_sign_up_entering_invalid_inputs
+2024-02-26 20:16:44,571 - AP Automation Framework -INFO - Execution Finished Successfully :- validate_sign_up_entering_invalid_inputs
+2024-02-26 20:16:45,583 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:16:53,360 - AP Automation Framework -INFO - browser launches with url
+2024-02-26 20:16:53,363 - AP Automation Framework -INFO - Execution Started :- buyProductTest
+2024-02-26 20:16:55,225 - AP Automation Framework -INFO - logged in
+2024-02-26 20:16:57,225 - AP Automation Framework -INFO - product added to cart
+2024-02-26 20:16:58,252 - AP Automation Framework -INFO - checkout
+2024-02-26 20:17:04,347 - AP Automation Framework -INFO - placed order
+2024-02-26 20:17:14,358 - AP Automation Framework -INFO - Execution Finished Successfully :- buyProductTest
+2024-02-26 20:17:15,068 - AP Automation Framework -INFO - browser closed
+2024-02-26 20:17:15,070 - AP Automation Framework -INFO - ----------- Framework Execution Completed --------------

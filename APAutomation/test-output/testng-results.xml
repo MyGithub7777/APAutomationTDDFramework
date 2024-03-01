@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="12" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-26T20:16:02 IST" name="RegessionSuite" finished-at="2024-02-26T20:17:15 IST" duration-ms="72270">
+    <groups>
+    </groups>
+    <test started-at="2024-02-26T20:16:02 IST" name="RegressionTest" finished-at="2024-02-26T20:17:15 IST" duration-ms="72270">
+      <class name="com.odoo.ap.testlayer.AddressTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.AddressTest@20deea7f]" started-at="2024-02-26T20:16:18 IST" name="setUp" finished-at="2024-02-26T20:16:22 IST" duration-ms="4129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewAddress()[pri:0, instance:com.odoo.ap.testlayer.AddressTest@20deea7f]" started-at="2024-02-26T20:16:22 IST" name="addNewAddress" finished-at="2024-02-26T20:16:31 IST" duration-ms="9043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAddress -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.AddressTest@20deea7f]" started-at="2024-02-26T20:16:31 IST" name="tearDown" finished-at="2024-02-26T20:16:31 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.odoo.ap.testlayer.AddressTest -->
+      <class name="com.odoo.ap.testlayer.LoginTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:02 IST" name="start" finished-at="2024-02-26T20:16:03 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:03 IST" name="setUp" finished-at="2024-02-26T20:16:07 IST" duration-ms="4138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_user_should_be_log_in_by_entering_invalid_inputs()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:07 IST" name="validate_user_should_be_log_in_by_entering_invalid_inputs" finished-at="2024-02-26T20:16:09 IST" duration-ms="2331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_user_should_be_log_in_by_entering_invalid_inputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:09 IST" name="tearDown" finished-at="2024-02-26T20:16:10 IST" duration-ms="870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:10 IST" name="setUp" finished-at="2024-02-26T20:16:15 IST" duration-ms="4993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_user_should_be_log_in_entering_all_valid_inputs()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:15 IST" name="validate_user_should_be_log_in_entering_all_valid_inputs" finished-at="2024-02-26T20:16:17 IST" duration-ms="1961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_user_should_be_log_in_entering_all_valid_inputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:16:17 IST" name="tearDown" finished-at="2024-02-26T20:16:18 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:com.odoo.ap.testlayer.LoginTest@61df66b6]" started-at="2024-02-26T20:17:15 IST" name="end" finished-at="2024-02-26T20:17:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.odoo.ap.testlayer.LoginTest -->
+      <class name="com.odoo.ap.testlayer.SignupTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:31 IST" name="setUp" finished-at="2024-02-26T20:16:35 IST" duration-ms="3375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_sign_up_entering_all_valid_inputs()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:35 IST" name="validate_sign_up_entering_all_valid_inputs" finished-at="2024-02-26T20:16:37 IST" duration-ms="1850" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://ap-automation.odoo.com/my] but found [https://ap-automation.odoo.com/web/signup]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://ap-automation.odoo.com/my] but found [https://ap-automation.odoo.com/web/signup]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.odoo.ap.testlayer.SignupTest.validate_sign_up_entering_all_valid_inputs(SignupTest.java:33)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_sign_up_entering_all_valid_inputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:37 IST" name="tearDown" finished-at="2024-02-26T20:16:38 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:38 IST" name="setUp" finished-at="2024-02-26T20:16:42 IST" duration-ms="4223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validate_sign_up_entering_invalid_inputs()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:42 IST" name="validate_sign_up_entering_invalid_inputs" finished-at="2024-02-26T20:16:44 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_sign_up_entering_invalid_inputs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.SignupTest@3835c46]" started-at="2024-02-26T20:16:44 IST" name="tearDown" finished-at="2024-02-26T20:16:45 IST" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.odoo.ap.testlayer.SignupTest -->
+      <class name="com.odoo.ap.testlayer.ProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.odoo.ap.testlayer.ProductTest@1dde4cb2]" started-at="2024-02-26T20:16:45 IST" name="setUp" finished-at="2024-02-26T20:16:53 IST" duration-ms="7774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyProductTest()[pri:0, instance:com.odoo.ap.testlayer.ProductTest@1dde4cb2]" started-at="2024-02-26T20:16:53 IST" name="buyProductTest" finished-at="2024-02-26T20:17:14 IST" duration-ms="20998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProductTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.odoo.ap.testlayer.ProductTest@1dde4cb2]" started-at="2024-02-26T20:17:14 IST" name="tearDown" finished-at="2024-02-26T20:17:15 IST" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.odoo.ap.testlayer.ProductTest -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegessionSuite -->
+</testng-results>
